@@ -1,0 +1,17 @@
+img{
+    border-radius: 10px;
+    border: 10px white;
+    width: 70%;
+    display:block;
+    margin:0px auto;
+    height: 100%;
+    
+}
+body{
+    background-color: blueviolet;
+    box-shadow: 0 24px 40px -8px #311b92;
+}
+button{
+    background-color: black;
+    color:white;
+}
